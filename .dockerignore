@@ -1,0 +1,11 @@
+Dockerfile
+.dockerignore
+.gitignore
+.env*.local
+
+next-env.d.ts
+
+/node_modules
+/.next/
+/out/
+/build
